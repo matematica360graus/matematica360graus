@@ -1,0 +1,104 @@
+body {
+    margin: 0;
+    background-color: orange;
+}
+
+h1 {
+    margin: 0;
+}
+
+#nome{
+    border:  1px solid red;
+    color:  red;
+}
+
+#input:focus{
+    background-color: red;
+    color:  white;
+}
+
+#input::placeholder{
+    color: blue;
+    font-size: large;
+}
+
+.cabecalho{
+    color: white;
+    text-align: center;
+    background-color: black;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+.corpo-pagina-6ano{
+    margin:  24px 24px;
+    background-color: lightgreen;
+    color: #21022d;
+    padding: 16px;
+
+}
+
+.cada-video-6ano{
+    padding-top: 32px;
+    padding-left: 64px;
+        
+}
+
+.corpo-pagina-8ano{
+    margin:  24px 24px;
+    background-color: lightblue;
+    color: #21022d;
+    padding: 16px;
+
+}
+
+.cada-video-8ano{
+    padding-top: 32px;
+    padding-left: 64px;
+        
+}
+
+
+#titulo-links{
+    text-align: center;
+    padding-top: 64px;
+    color:  red;
+}
+
+#link-box{
+    margin: auto;
+    text-align: center;
+    
+}
+
+.links{
+    
+    display: inline-block;
+}
+
+.links a{
+    text-decoration: none;
+    color: white;
+}
+
+
+
+#img-link1{
+    width: 60%;
+    height: 40%;
+    
+}
+
+#img-link2{
+    width: 30%;
+    height: 40%;
+    
+}
+
+.rodape{
+    color: white;
+    text-align: center;
+    background-color: black;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
